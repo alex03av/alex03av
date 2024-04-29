@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/alex03av/alex03av/assets/105180364/751de851-57ae-4020-89e4-8ef3cb908027" alt="Banner" style="width: 100%;">
+  <img src="https://github.com/alex03av/alex03av/assets/105180364/06b4f0ca-a00c-4f8b-b3a5-a5daeaa4fb32" alt="Banner" style="width: 100%;">
 </p>
+
 
 
 Soy un apasionado desarrollador de software.
