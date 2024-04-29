@@ -1,6 +1,11 @@
-# Hola, soy Alex 👋
+<p align="center">
+  <h1 align="center">Hola, soy Alex 👋</h1>
+</p>
 
-![Banner](https://placehold.it/850x280)
+<p align="center">
+  <img src="https://github.com/alex03av/alex03av/assets/105180364/751de851-57ae-4020-89e4-8ef3cb908027" alt="Banner" style="width: 100%;">
+</p>
+
 
 Soy un apasionado desarrollador de software.
 
@@ -14,8 +19,8 @@ Soy un apasionado desarrollador de software.
 
 ## 📫 Cómo contactarme
 
-- Twitter: [@alex03av](https://twitter.com/alex03av)
-- Email: alex03av@example.com
+- Linkedin: [Alexander Araujo](https://www.linkedin.com/in/alexander-araujo-03840a258/)
+- Email: aaraujovalles@gmail.com
 
 ## 📊 Mis estadísticas de GitHub
 
@@ -33,10 +38,6 @@ Soy un apasionado desarrollador de software.
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
-## 📜 Últimos blogs
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Datos divertidos
 
