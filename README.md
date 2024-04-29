@@ -6,9 +6,11 @@ Soy un apasionado desarrollador de software.
 
 ## 🌱 Actualmente estoy aprendiendo
 
-- Python
-- JavaScript
-- React
+- Nuxt.js
+- Vue.js
+- Node.js
+- MongoDB
+- Express
 
 ## 📫 Cómo contactarme
 
@@ -21,9 +23,15 @@ Soy un apasionado desarrollador de software.
 
 ## 🧰 Lenguajes y herramientas
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
+![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
 ## 📜 Últimos blogs
 
