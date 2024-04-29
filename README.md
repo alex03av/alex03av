@@ -21,6 +21,8 @@ Soy un apasionado desarrollador de software.
 ## 📫 Cómo contactarme
 
 - Linkedin: [Alexander Araujo](https://www.linkedin.com/in/alexander-araujo-03840a258/)
+- WhastApp: [Link](https://wa.link/qpfrsb)
+- Telegram: [Araujosev](https://msng.link/o/?Araujosev=tg)
 - Email: aaraujovalles@gmail.com
 
 ## 📊 Mis estadísticas de GitHub
